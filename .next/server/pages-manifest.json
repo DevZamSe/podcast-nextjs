@@ -1,7 +1,10 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
+  "/about": "pages/about.html",
   "/channel": "pages/channel.js",
-  "/": "pages/index.js"
+  "/example": "pages/example.html",
+  "/": "pages/index.js",
+  "/podcast": "pages/podcast.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js"
 }
